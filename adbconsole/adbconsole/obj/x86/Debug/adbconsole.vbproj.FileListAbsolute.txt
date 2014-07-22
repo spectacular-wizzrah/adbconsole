@@ -1,0 +1,10 @@
+c:\users\anyuser\documents\visual studio 2013\Projects\adbconsole\adbconsole\bin\x86\Debug\adbconsole.exe.config
+c:\users\anyuser\documents\visual studio 2013\Projects\adbconsole\adbconsole\bin\x86\Debug\adbconsole.exe
+c:\users\anyuser\documents\visual studio 2013\Projects\adbconsole\adbconsole\bin\x86\Debug\adbconsole.pdb
+c:\users\anyuser\documents\visual studio 2013\Projects\adbconsole\adbconsole\bin\x86\Debug\adbconsole.xml
+c:\users\anyuser\documents\visual studio 2013\Projects\adbconsole\adbconsole\obj\x86\Debug\adbconsole.console.resources
+c:\users\anyuser\documents\visual studio 2013\Projects\adbconsole\adbconsole\obj\x86\Debug\adbconsole.Resources.resources
+c:\users\anyuser\documents\visual studio 2013\Projects\adbconsole\adbconsole\obj\x86\Debug\adbconsole.vbproj.GenerateResource.Cache
+c:\users\anyuser\documents\visual studio 2013\Projects\adbconsole\adbconsole\obj\x86\Debug\adbconsole.exe
+c:\users\anyuser\documents\visual studio 2013\Projects\adbconsole\adbconsole\obj\x86\Debug\adbconsole.xml
+c:\users\anyuser\documents\visual studio 2013\Projects\adbconsole\adbconsole\obj\x86\Debug\adbconsole.pdb
